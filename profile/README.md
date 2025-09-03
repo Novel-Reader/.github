@@ -1,8 +1,6 @@
-# Hi there 👋
+# Source repositories for Genshin Novel Reader components
 
 This is an introduction of Genshin Novel Reader project.
-
-## Source repositories for Genshin Novel Reader components
 
 Each component of Genshin Novel Reader has its own source code repository on Github.
 
@@ -15,7 +13,7 @@ Each component of Genshin Novel Reader has its own source code repository on Git
 Before version 1.0, both server code and reader code were maintained in one repository Genshin Novel Reader. After 1.0, the main code was divided into two parts: the front-end reader code Genshin Novel Reader and the back-end server code Genshin Novel Reader express server.
 
 
-## 原神小说阅读器组件的源代码库
+# 原神小说阅读器组件的源代码库
 
 原神小说阅读器的每个组件在 Github 上有独立的源代码库。
 
@@ -31,13 +29,9 @@ Before version 1.0, both server code and reader code were maintained in one repo
 同时支持了前端 typescript 版本 https://github.com/Novel-Reader/novel-reader-ts 
 
 <!--
-
-**Here are some ideas to get you started:**
-
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
